@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"AVR128DB48"</DEVICE>
+ <WORKING_DIR>C:\Users\Jason\Documents\ASM Code\table_lookup_seg_test\table_lookup_seg_test\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\AVR-Dx_DFP\1.10.114\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Jason\Documents\ASM Code\table_lookup_seg_test\table_lookup_seg_test\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\AVR-Dx_DFP\1.10.114\avrasm\inc\AVR128DB48def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Jason\Documents\ASM Code\table_lookup_seg_test\table_lookup_seg_test\Debug\table_lookup_seg_test.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>table_lookup_seg_test.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>table_lookup_seg_test.map</FILE>
+  <FILE>table_lookup_seg_test.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Jason\Documents\ASM Code\table_lookup_seg_test\table_lookup_seg_test\main.asm</FILE><LINE>25</LINE></start>
+  <main_loop><FILE>C:\Users\Jason\Documents\ASM Code\table_lookup_seg_test\table_lookup_seg_test\main.asm</FILE><LINE>37</LINE></main_loop>
+  <reverse_bits><FILE>C:\Users\Jason\Documents\ASM Code\table_lookup_seg_test\table_lookup_seg_test\main.asm</FILE><LINE>68</LINE></reverse_bits>
+  <hex_to_7seg><FILE>C:\Users\Jason\Documents\ASM Code\table_lookup_seg_test\table_lookup_seg_test\main.asm</FILE><LINE>103</LINE></hex_to_7seg>
+  <bits_loop><FILE>C:\Users\Jason\Documents\ASM Code\table_lookup_seg_test\table_lookup_seg_test\main.asm</FILE><LINE>71</LINE></bits_loop>
+  <hextable><FILE>C:\Users\Jason\Documents\ASM Code\table_lookup_seg_test\table_lookup_seg_test\main.asm</FILE><LINE>115</LINE></hextable>
+ </LABELS>
+</ASSEMBLER_INFO>

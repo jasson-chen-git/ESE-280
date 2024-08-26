@@ -1,0 +1,46 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega4809"</DEVICE>
+ <WORKING_DIR>C:\Users\Jason\Documents\ASM Code\subroutine_based_display\subroutine_based_display\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Jason\Documents\ASM Code\subroutine_based_display\subroutine_based_display\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m4809def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Jason\Documents\ASM Code\subroutine_based_display\subroutine_based_display\Debug\subroutine_based_display.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>subroutine_based_display.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>subroutine_based_display.map</FILE>
+  <FILE>subroutine_based_display.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <bcd_entries><FILE>C:\Users\Jason\Documents\ASM Code\subroutine_based_display\subroutine_based_display\main.asm</FILE><LINE>29</LINE></bcd_entries>
+  <led_display><FILE>C:\Users\Jason\Documents\ASM Code\subroutine_based_display\subroutine_based_display\main.asm</FILE><LINE>30</LINE></led_display>
+  <digit_num><FILE>C:\Users\Jason\Documents\ASM Code\subroutine_based_display\subroutine_based_display\main.asm</FILE><LINE>31</LINE></digit_num>
+  <initialize><FILE>C:\Users\Jason\Documents\ASM Code\subroutine_based_display\subroutine_based_display\main.asm</FILE><LINE>34</LINE></initialize>
+  <enable_pullups_inven><FILE>C:\Users\Jason\Documents\ASM Code\subroutine_based_display\subroutine_based_display\main.asm</FILE><LINE>45</LINE></enable_pullups_inven>
+  <pin_config><FILE>C:\Users\Jason\Documents\ASM Code\subroutine_based_display\subroutine_based_display\main.asm</FILE><LINE>50</LINE></pin_config>
+  <main_loop><FILE>C:\Users\Jason\Documents\ASM Code\subroutine_based_display\subroutine_based_display\main.asm</FILE><LINE>57</LINE></main_loop>
+  <multiplex_display><FILE>C:\Users\Jason\Documents\ASM Code\subroutine_based_display\subroutine_based_display\main.asm</FILE><LINE>98</LINE></multiplex_display>
+  <mux_digit_delay><FILE>C:\Users\Jason\Documents\ASM Code\subroutine_based_display\subroutine_based_display\main.asm</FILE><LINE>346</LINE></mux_digit_delay>
+  <poll_digit_entry><FILE>C:\Users\Jason\Documents\ASM Code\subroutine_based_display\subroutine_based_display\main.asm</FILE><LINE>182</LINE></poll_digit_entry>
+  <digit_pos><FILE>C:\Users\Jason\Documents\ASM Code\subroutine_based_display\subroutine_based_display\main.asm</FILE><LINE>126</LINE></digit_pos>
+  <digit_on><FILE>C:\Users\Jason\Documents\ASM Code\subroutine_based_display\subroutine_based_display\main.asm</FILE><LINE>133</LINE></digit_on>
+  <reverse_bits><FILE>C:\Users\Jason\Documents\ASM Code\subroutine_based_display\subroutine_based_display\main.asm</FILE><LINE>300</LINE></reverse_bits>
+  <left_shift_digits><FILE>C:\Users\Jason\Documents\ASM Code\subroutine_based_display\subroutine_based_display\main.asm</FILE><LINE>200</LINE></left_shift_digits>
+  <load_bit_pattern><FILE>C:\Users\Jason\Documents\ASM Code\subroutine_based_display\subroutine_based_display\main.asm</FILE><LINE>213</LINE></load_bit_pattern>
+  <hex_to_7seg><FILE>C:\Users\Jason\Documents\ASM Code\subroutine_based_display\subroutine_based_display\main.asm</FILE><LINE>254</LINE></hex_to_7seg>
+  <hextable><FILE>C:\Users\Jason\Documents\ASM Code\subroutine_based_display\subroutine_based_display\main.asm</FILE><LINE>267</LINE></hextable>
+  <bits_loop><FILE>C:\Users\Jason\Documents\ASM Code\subroutine_based_display\subroutine_based_display\main.asm</FILE><LINE>307</LINE></bits_loop>
+  <outer_loop><FILE>C:\Users\Jason\Documents\ASM Code\subroutine_based_display\subroutine_based_display\main.asm</FILE><LINE>352</LINE></outer_loop>
+  <inner_loop><FILE>C:\Users\Jason\Documents\ASM Code\subroutine_based_display\subroutine_based_display\main.asm</FILE><LINE>355</LINE></inner_loop>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,28 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"AVR128DB48"</DEVICE>
+ <WORKING_DIR>C:\Users\Jason\Documents\ASM Code\test_app\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\AVR-Dx_DFP\1.10.114\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Jason\Documents\ASM Code\test_app\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\AVR-Dx_DFP\1.10.114\avrasm\inc\AVR128DB48def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Jason\Documents\ASM Code\test_app\Debug\test_app.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>test_app.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>test_app.map</FILE>
+  <FILE>test_app.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Jason\Documents\ASM Code\test_app\main.asm</FILE><LINE>8</LINE></start>
+  <main_loop><FILE>C:\Users\Jason\Documents\ASM Code\test_app\main.asm</FILE><LINE>24</LINE></main_loop>
+ </LABELS>
+</ASSEMBLER_INFO>

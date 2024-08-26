@@ -1,0 +1,28 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega4809"</DEVICE>
+ <WORKING_DIR>C:\Users\Jason\Documents\ASM Code\SW0_controls_LED0_mod\SW0_controls_LED0_mod\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Jason\Documents\ASM Code\SW0_controls_LED0_mod\SW0_controls_LED0_mod\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m4809def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Jason\Documents\ASM Code\SW0_controls_LED0_mod\SW0_controls_LED0_mod\Debug\SW0_controls_LED0_mod.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>SW0_controls_LED0_mod.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>SW0_controls_LED0_mod.map</FILE>
+  <FILE>SW0_controls_LED0_mod.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Jason\Documents\ASM Code\SW0_controls_LED0_mod\SW0_controls_LED0_mod\main.asm</FILE><LINE>2</LINE></start>
+  <loop><FILE>C:\Users\Jason\Documents\ASM Code\SW0_controls_LED0_mod\SW0_controls_LED0_mod\main.asm</FILE><LINE>10</LINE></loop>
+ </LABELS>
+</ASSEMBLER_INFO>
