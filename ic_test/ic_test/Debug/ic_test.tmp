@@ -1,0 +1,50 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega4809"</DEVICE>
+ <WORKING_DIR>C:\Users\Jason\Documents\ASM Code\ic_test\ic_test\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Jason\Documents\ASM Code\ic_test\ic_test\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m4809def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Jason\Documents\ASM Code\ic_test\ic_test\Debug\ic_test.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>ic_test.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>ic_test.map</FILE>
+  <FILE>ic_test.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Jason\Documents\ASM Code\ic_test\ic_test\main.asm</FILE><LINE>8</LINE></start>
+  <post><FILE>C:\Users\Jason\Documents\ASM Code\ic_test\ic_test\main.asm</FILE><LINE>19</LINE></post>
+  <one_sec_delay><FILE>C:\Users\Jason\Documents\ASM Code\ic_test\ic_test\main.asm</FILE><LINE>305</LINE></one_sec_delay>
+  <again><FILE>C:\Users\Jason\Documents\ASM Code\ic_test\ic_test\main.asm</FILE><LINE>26</LINE></again>
+  <wait_for_push><FILE>C:\Users\Jason\Documents\ASM Code\ic_test\ic_test\main.asm</FILE><LINE>32</LINE></wait_for_push>
+  <test_type><FILE>C:\Users\Jason\Documents\ASM Code\ic_test\ic_test\main.asm</FILE><LINE>38</LINE></test_type>
+  <test_nand><FILE>C:\Users\Jason\Documents\ASM Code\ic_test\ic_test\main.asm</FILE><LINE>106</LINE></test_nand>
+  <long_jump_and><FILE>C:\Users\Jason\Documents\ASM Code\ic_test\ic_test\main.asm</FILE><LINE>97</LINE></long_jump_and>
+  <long_jump_or><FILE>C:\Users\Jason\Documents\ASM Code\ic_test\ic_test\main.asm</FILE><LINE>100</LINE></long_jump_or>
+  <long_jump_xor><FILE>C:\Users\Jason\Documents\ASM Code\ic_test\ic_test\main.asm</FILE><LINE>103</LINE></long_jump_xor>
+  <test_ls_nand><FILE>C:\Users\Jason\Documents\ASM Code\ic_test\ic_test\main.asm</FILE><LINE>50</LINE></test_ls_nand>
+  <test_fail_jump><FILE>C:\Users\Jason\Documents\ASM Code\ic_test\ic_test\main.asm</FILE><LINE>145</LINE></test_fail_jump>
+  <test_pass><FILE>C:\Users\Jason\Documents\ASM Code\ic_test\ic_test\main.asm</FILE><LINE>270</LINE></test_pass>
+  <test_and><FILE>C:\Users\Jason\Documents\ASM Code\ic_test\ic_test\main.asm</FILE><LINE>148</LINE></test_and>
+  <test_or><FILE>C:\Users\Jason\Documents\ASM Code\ic_test\ic_test\main.asm</FILE><LINE>187</LINE></test_or>
+  <test_xor><FILE>C:\Users\Jason\Documents\ASM Code\ic_test\ic_test\main.asm</FILE><LINE>226</LINE></test_xor>
+  <test_fail><FILE>C:\Users\Jason\Documents\ASM Code\ic_test\ic_test\main.asm</FILE><LINE>265</LINE></test_fail>
+  <wait_for_release><FILE>C:\Users\Jason\Documents\ASM Code\ic_test\ic_test\main.asm</FILE><LINE>275</LINE></wait_for_release>
+  <clear_reset><FILE>C:\Users\Jason\Documents\ASM Code\ic_test\ic_test\main.asm</FILE><LINE>282</LINE></clear_reset>
+  <var_delay><FILE>C:\Users\Jason\Documents\ASM Code\ic_test\ic_test\main.asm</FILE><LINE>293</LINE></var_delay>
+  <var_outer_loop><FILE>C:\Users\Jason\Documents\ASM Code\ic_test\ic_test\main.asm</FILE><LINE>295</LINE></var_outer_loop>
+  <var_inner_loop><FILE>C:\Users\Jason\Documents\ASM Code\ic_test\ic_test\main.asm</FILE><LINE>297</LINE></var_inner_loop>
+  <outer_loop><FILE>C:\Users\Jason\Documents\ASM Code\ic_test\ic_test\main.asm</FILE><LINE>308</LINE></outer_loop>
+  <inner_loop><FILE>C:\Users\Jason\Documents\ASM Code\ic_test\ic_test\main.asm</FILE><LINE>310</LINE></inner_loop>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "interrupt_driven_display", "interrupt_driven_display\interrupt_driven_display.asmproj", "{59B1D629-9DCC-43ED-A0FD-8AB0E4D622AB}"
+EndProject
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "subroutine_isr_based_display", "..\subroutine_isr_based_display\subroutine_isr_based_display.asmproj", "{E769E110-E592-483A-88F1-904657B36F3F}"
+EndProject
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "intr_driven_bit_toggle", "..\intr_driven_bit_toggle\intr_driven_bit_toggle.asmproj", "{A8B5D688-5CAB-47A0-AF94-621C4D43BDE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59B1D629-9DCC-43ED-A0FD-8AB0E4D622AB}.Debug|AVR.ActiveCfg = Debug|AVR
+		{59B1D629-9DCC-43ED-A0FD-8AB0E4D622AB}.Debug|AVR.Build.0 = Debug|AVR
+		{59B1D629-9DCC-43ED-A0FD-8AB0E4D622AB}.Release|AVR.ActiveCfg = Release|AVR
+		{59B1D629-9DCC-43ED-A0FD-8AB0E4D622AB}.Release|AVR.Build.0 = Release|AVR
+		{E769E110-E592-483A-88F1-904657B36F3F}.Debug|AVR.ActiveCfg = Debug|AVR
+		{E769E110-E592-483A-88F1-904657B36F3F}.Debug|AVR.Build.0 = Debug|AVR
+		{E769E110-E592-483A-88F1-904657B36F3F}.Release|AVR.ActiveCfg = Release|AVR
+		{E769E110-E592-483A-88F1-904657B36F3F}.Release|AVR.Build.0 = Release|AVR
+		{A8B5D688-5CAB-47A0-AF94-621C4D43BDE3}.Debug|AVR.ActiveCfg = Debug|AVR
+		{A8B5D688-5CAB-47A0-AF94-621C4D43BDE3}.Debug|AVR.Build.0 = Debug|AVR
+		{A8B5D688-5CAB-47A0-AF94-621C4D43BDE3}.Release|AVR.ActiveCfg = Release|AVR
+		{A8B5D688-5CAB-47A0-AF94-621C4D43BDE3}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

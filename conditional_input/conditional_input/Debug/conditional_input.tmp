@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega4809"</DEVICE>
+ <WORKING_DIR>C:\Users\Jason\Documents\ASM Code\conditional_input\conditional_input\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Jason\Documents\ASM Code\conditional_input\conditional_input\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m4809def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Jason\Documents\ASM Code\conditional_input\conditional_input\Debug\conditional_input.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>conditional_input.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>conditional_input.map</FILE>
+  <FILE>conditional_input.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Jason\Documents\ASM Code\conditional_input\conditional_input\main.asm</FILE><LINE>12</LINE></start>
+  <again><FILE>C:\Users\Jason\Documents\ASM Code\conditional_input\conditional_input\main.asm</FILE><LINE>21</LINE></again>
+  <wait_for_push><FILE>C:\Users\Jason\Documents\ASM Code\conditional_input\conditional_input\main.asm</FILE><LINE>27</LINE></wait_for_push>
+  <output><FILE>C:\Users\Jason\Documents\ASM Code\conditional_input\conditional_input\main.asm</FILE><LINE>31</LINE></output>
+  <delay_and_reset><FILE>C:\Users\Jason\Documents\ASM Code\conditional_input\conditional_input\main.asm</FILE><LINE>36</LINE></delay_and_reset>
+  <var_delay><FILE>C:\Users\Jason\Documents\ASM Code\conditional_input\conditional_input\main.asm</FILE><LINE>47</LINE></var_delay>
+  <wait_for_release><FILE>C:\Users\Jason\Documents\ASM Code\conditional_input\conditional_input\main.asm</FILE><LINE>40</LINE></wait_for_release>
+  <outer_loop><FILE>C:\Users\Jason\Documents\ASM Code\conditional_input\conditional_input\main.asm</FILE><LINE>48</LINE></outer_loop>
+  <inner_loop><FILE>C:\Users\Jason\Documents\ASM Code\conditional_input\conditional_input\main.asm</FILE><LINE>50</LINE></inner_loop>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,45 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega4809"</DEVICE>
+ <WORKING_DIR>C:\Users\Jason\Documents\ASM Code\read_DHT11\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Jason\Documents\ASM Code\read_DHT11\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m4809def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Jason\Documents\ASM Code\read_DHT11\Debug\read_DHT11.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>read_DHT11.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>read_DHT11.map</FILE>
+  <FILE>read_DHT11.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Jason\Documents\ASM Code\read_DHT11\main.asm</FILE><LINE>19</LINE></start>
+  <main_loop><FILE>C:\Users\Jason\Documents\ASM Code\read_DHT11\main.asm</FILE><LINE>28</LINE></main_loop>
+  <send_start><FILE>C:\Users\Jason\Documents\ASM Code\read_DHT11\main.asm</FILE><LINE>73</LINE></send_start>
+  <wait_for_response_signal><FILE>C:\Users\Jason\Documents\ASM Code\read_DHT11\main.asm</FILE><LINE>39</LINE></wait_for_response_signal>
+  <read_DHT11><FILE>C:\Users\Jason\Documents\ASM Code\read_DHT11\main.asm</FILE><LINE>34</LINE></read_DHT11>
+  <delay_80us><FILE>C:\Users\Jason\Documents\ASM Code\read_DHT11\main.asm</FILE><LINE>116</LINE></delay_80us>
+  <wait_for_response_signal_2><FILE>C:\Users\Jason\Documents\ASM Code\read_DHT11\main.asm</FILE><LINE>44</LINE></wait_for_response_signal_2>
+  <read_DHT11_data_bit><FILE>C:\Users\Jason\Documents\ASM Code\read_DHT11\main.asm</FILE><LINE>51</LINE></read_DHT11_data_bit>
+  <delay_50us><FILE>C:\Users\Jason\Documents\ASM Code\read_DHT11\main.asm</FILE><LINE>126</LINE></delay_50us>
+  <wait_for_pos_edge><FILE>C:\Users\Jason\Documents\ASM Code\read_DHT11\main.asm</FILE><LINE>56</LINE></wait_for_pos_edge>
+  <write_0_to_DHT11><FILE>C:\Users\Jason\Documents\ASM Code\read_DHT11\main.asm</FILE><LINE>81</LINE></write_0_to_DHT11>
+  <delay_18ms><FILE>C:\Users\Jason\Documents\ASM Code\read_DHT11\main.asm</FILE><LINE>98</LINE></delay_18ms>
+  <write_1_to_DHT11><FILE>C:\Users\Jason\Documents\ASM Code\read_DHT11\main.asm</FILE><LINE>85</LINE></write_1_to_DHT11>
+  <delay_20us><FILE>C:\Users\Jason\Documents\ASM Code\read_DHT11\main.asm</FILE><LINE>136</LINE></delay_20us>
+  <outer_18ms><FILE>C:\Users\Jason\Documents\ASM Code\read_DHT11\main.asm</FILE><LINE>102</LINE></outer_18ms>
+  <inner_18ms><FILE>C:\Users\Jason\Documents\ASM Code\read_DHT11\main.asm</FILE><LINE>104</LINE></inner_18ms>
+  <loop_80us><FILE>C:\Users\Jason\Documents\ASM Code\read_DHT11\main.asm</FILE><LINE>119</LINE></loop_80us>
+  <loop_20us><FILE>C:\Users\Jason\Documents\ASM Code\read_DHT11\main.asm</FILE><LINE>139</LINE></loop_20us>
+  <loop_50us><FILE>C:\Users\Jason\Documents\ASM Code\read_DHT11\main.asm</FILE><LINE>129</LINE></loop_50us>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega4809"</DEVICE>
+ <WORKING_DIR>C:\Users\Jason\Documents\ASM Code\multiplex_display\multiplex_display\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Jason\Documents\ASM Code\multiplex_display\multiplex_display\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m4809def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Jason\Documents\ASM Code\multiplex_display\multiplex_display\Debug\multiplex_display.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>multiplex_display.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>multiplex_display.map</FILE>
+  <FILE>multiplex_display.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Jason\Documents\ASM Code\multiplex_display\multiplex_display\main.asm</FILE><LINE>19</LINE></start>
+  <led_display><FILE>C:\Users\Jason\Documents\ASM Code\multiplex_display\multiplex_display\main.asm</FILE><LINE>29</LINE></led_display>
+  <digit_num><FILE>C:\Users\Jason\Documents\ASM Code\multiplex_display\multiplex_display\main.asm</FILE><LINE>30</LINE></digit_num>
+  <main_loop><FILE>C:\Users\Jason\Documents\ASM Code\multiplex_display\multiplex_display\main.asm</FILE><LINE>41</LINE></main_loop>
+  <multiplex_display><FILE>C:\Users\Jason\Documents\ASM Code\multiplex_display\multiplex_display\main.asm</FILE><LINE>75</LINE></multiplex_display>
+  <digit_pos><FILE>C:\Users\Jason\Documents\ASM Code\multiplex_display\multiplex_display\main.asm</FILE><LINE>104</LINE></digit_pos>
+  <digit_on><FILE>C:\Users\Jason\Documents\ASM Code\multiplex_display\multiplex_display\main.asm</FILE><LINE>110</LINE></digit_on>
+ </LABELS>
+</ASSEMBLER_INFO>

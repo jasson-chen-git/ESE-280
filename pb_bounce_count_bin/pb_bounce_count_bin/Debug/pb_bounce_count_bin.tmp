@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"AVR128DB48"</DEVICE>
+ <WORKING_DIR>C:\Users\Jason\Documents\ASM Code\pb_bounce_count_bin\pb_bounce_count_bin\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\AVR-Dx_DFP\1.10.114\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Jason\Documents\ASM Code\pb_bounce_count_bin\pb_bounce_count_bin\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\AVR-Dx_DFP\1.10.114\avrasm\inc\AVR128DB48def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Jason\Documents\ASM Code\pb_bounce_count_bin\pb_bounce_count_bin\Debug\pb_bounce_count_bin.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>pb_bounce_count_bin.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>pb_bounce_count_bin.map</FILE>
+  <FILE>pb_bounce_count_bin.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Jason\Documents\ASM Code\pb_bounce_count_bin\pb_bounce_count_bin\main.asm</FILE><LINE>12</LINE></start>
+  <main_loop><FILE>C:\Users\Jason\Documents\ASM Code\pb_bounce_count_bin\pb_bounce_count_bin\main.asm</FILE><LINE>18</LINE></main_loop>
+  <clear_count><FILE>C:\Users\Jason\Documents\ASM Code\pb_bounce_count_bin\pb_bounce_count_bin\main.asm</FILE><LINE>32</LINE></clear_count>
+  <wait_for_zero><FILE>C:\Users\Jason\Documents\ASM Code\pb_bounce_count_bin\pb_bounce_count_bin\main.asm</FILE><LINE>24</LINE></wait_for_zero>
+  <inc_count><FILE>C:\Users\Jason\Documents\ASM Code\pb_bounce_count_bin\pb_bounce_count_bin\main.asm</FILE><LINE>28</LINE></inc_count>
+  <output><FILE>C:\Users\Jason\Documents\ASM Code\pb_bounce_count_bin\pb_bounce_count_bin\main.asm</FILE><LINE>35</LINE></output>
+ </LABELS>
+</ASSEMBLER_INFO>
